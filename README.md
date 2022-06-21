@@ -1,5 +1,6 @@
 # Lager og logistik system
 !! Projektet er sat i bero, mens vi undersøger udvidelse af eksisterende system
+!! Projektet rettes mere mod kvalitets og test styring af enheder eks. klient maskiner
 
 
 Vi har brug for at system som kan tage stregkode fra udstyr og gemme det i en simpel database. Data kommer i første omgang fra en csv fra inventar systemet.
