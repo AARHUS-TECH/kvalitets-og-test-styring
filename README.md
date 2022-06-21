@@ -1,5 +1,5 @@
 # Lager og logistik system
-!! Projektet er sat i bero, mens vi undersøger udvidelse af eksisterende system
+!! Projektet er sat i bero, mens vi undersøger udvidelse af eksisterende system<br />
 !! Projektet rettes mere mod kvalitets og test styring af enheder eks. klient maskiner
 
 
